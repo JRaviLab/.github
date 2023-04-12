@@ -19,4 +19,6 @@ Mycobacteria | ESKAPE pathogens (incl. Staph, Pseudomonas) | Bacillus anthracis 
 Is your favorite :microbe:/disease is missing? reach out to us! :point_down:
 
 ## Learn more about us
-:link: [Webpage](//jravilab.github.io) | :computer: [Software](//jravilab.org) | [GitHub](//github.com/jravilab) | [Team](//jravilab.github.io/#people) | [PI](//jravilab.github.io/#about) | [Twitter](https://twitter.com/jravilab) | [Mastodon](//genomic.social/@jravilab) | :email: [Email](mailto:janani.ravi@cuanschutz.edu)
+- :link: [Webpage](//jravilab.github.io) | :computer: [Software](//jravilab.org) | :memo: [Lab docs](//jravilab.github.io/lab_docs)
+- [Team](//jravilab.github.io/#people) | [PI](//jravilab.github.io/#about)
+- [GitHub](//github.com/jravilab) | [Twitter](https://twitter.com/jravilab) | [Mastodon](//genomic.social/@jravilab) | [Email](mailto:janani.ravi@cuanschutz.edu)
