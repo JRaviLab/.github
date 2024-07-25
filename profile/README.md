@@ -8,7 +8,7 @@ Specifically, we focus on two key questions:
 1. How do we link microbial genotypes to phenotypic traits?
 2. How do we delineate molecular mechanisms underlying host response to infection and discover host-directed therapeutics?
 
-Along with the scientific pursuit involving bugs and drugs (:microbe: + :pill:), we release open data/software and easy-to-use web-servers for wide use by the biomedical community. We also focus on community engagement, education, and outreach (check out our orgs, [R-Ladies East Lansing](//github.com/rladies-eastlansing), [Women+ Data Science](//github.com/women-plus-datascience), and [AsiaR](//github.com/asiar-community).
+Along with the scientific pursuit involving bugs and drugs (:microbe: + :pill:), we release open data/software and easy-to-use web-servers for wide use by the biomedical community. We also focus on community engagement, education, and outreach (check out our orgs, [R-Ladies Aurora](//github.com/rladies-aurora), [R-Ladies East Lansing](//github.com/rladies-eastlansing), [Women+ Data Science](//github.com/women-plus-datascience), and [AsiaR](//github.com/asiar-community).
 
 ## Keywords
 Computational biology & Bioinformatics | Molecular evolution & phylogeny | Comparative pathogenomics | Molecular drug/vaccine discovery | Microbial pathogenesis | Infectious diseases | Data analysis & visualization
